@@ -85,9 +85,3 @@ Here are some of the technologies I work with:
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor17400&layout=compact&theme=radical" alt="Igor's Top Languages"/>
 </p>
-
----
-
-<p align="center">
-  [cite_start]Find more about my work, projects, and publications on my personal website: <b><a href="https://igorazevedo.com">igorazevedo.com</a></b> [cite: 5]
-</p>
