@@ -21,10 +21,6 @@
   </a>
 </p>
 
-I'm a researcher and engineer with a passion for building intelligent systems.
-
-**For a full list of my publications and more about my work, please visit my [personal website](https://igorazevedo.com).**
-
 * 🎓 **Master of Research (MRes) in AI/ML** @ <a href="https://www.imperial.ac.uk/computing/prospective-students/courses/pg/mres-artificial-intelligence-and-machine-learning/">Imperial College London</a> 🇬🇧
 * 🔬 **Former Research Scholar** @ <a href="https://sites.google.com/view/toyolab/members">The University of Tokyo</a> 🇯🇵
 * ⚡ **BSc in Electrical Engineering** @ <a href="https://international.unb.br/">University of Brasília</a> 🇧🇷
