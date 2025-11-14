@@ -39,6 +39,29 @@ I'm a researcher and engineer with a passion for building intelligent systems.
 >
 > Now at United Kingdom studying at Imperial College London, I'm pursuing an MRes in AI/ML, supervised by Prof. Pedro Mediano on generative and contrastive deep learning for predicting rare events in large-scale clinical data in partnership with the NHS.
 
+--
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/igor17400/YOUR-REPO-NAME-1" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igor17400&repo=YOUR-REPO-NAME-1&theme=radical&show_owner=true" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/igor17400/YOUR-REPO-NAME-2" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igor17400&repo=YOUR-REPO-NAME-2&theme=radical&show_owner=true" alt="Project 2"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/igor17400/YOUR-REPO-NAME-3" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igor17400&repo=YOUR-REPO-NAME-3&theme=radical&show_owner=true" alt="Project 3"/>
+  </a>
+  <a href="https://github.com/igor17400/YOUR-REPO-NAME-4" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igor17400&repo=YOUR-REPO-NAME-4&theme=radical&show_owner=true" alt="Project 4"/>
+  </a>
+</p>
+
+--
+
 ## 🛠️ My Tech Stack
 
 Here are some of the technologies I work with:
