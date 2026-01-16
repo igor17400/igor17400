@@ -35,12 +35,3 @@
 >
 > Now at United Kingdom studying at Imperial College London, I'm pursuing an MRes in AI/ML, supervised by Prof. Pedro Mediano on generative and contrastive deep learning for predicting rare events in large-scale clinical data in partnership with the NHS.
 
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igor17400&show_icons=true&theme=radical&rank_icon=github" alt="Igor's GitHub Stats"/>
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor17400&layout=compact&theme=radical" alt="Igor's Top Languages"/>
-</p>
