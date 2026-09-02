@@ -29,9 +29,9 @@
 
 ## 📖 A Bit About Me
 
-> My research journey spans three continents: I began in Brazil, earning a first-class Electrical Engineering degree from the University of Brasilia and winning the Brazilian Government Scientific Initiation Scholarship Award for FPGA research with Professor Alexandre Nery. After that I worked in partnership with Cellcrypt supervised by Professor Edson Mintsu Hung researching machine learning pipelines to improve call quality by optimizing PJSIP codec parameters.
+> My research journey spans three continents. I began in Brazil, earning a first-class Electrical Engineering degree from the University of Brasília and winning the Brazilian Government Scientific Initiation Scholarship for FPGA research with Professor Alexandre Nery. I then worked in partnership with Cellcrypt under Professor Edson Mintsu Hung, researching machine learning pipelines to improve call quality by optimizing PJSIP codec parameters.
 > 
-> My next step was in Japan, where I received the prestigious Japanese Government (MEXT) Scholarship to work at The University of Tokyo under Prof. Toyotaro Suzumura, former MIT-IBM Watson AI Lab Research principal scientist. There, I collaborated with Nikkei Inc. (Japan's second-largest media company) under supervision of Dr. Yuichiro Yasui, researching news recommender systems and foundational LLMs. This resulted in a SIAM SDM'25 paper publication work on news recommenders achieving superior multilingual performance and earning the SIAM Travel Award, which recognizes promising early-career researchers in data mining.
+> My next step was Japan, where I received the Japanese Government (MEXT) Scholarship to work at The University of Tokyo under Prof. Toyotaro Suzumura, former MIT-IBM Watson AI Lab principal research scientist. There I collaborated with Nikkei Inc. under Dr. Yuichiro Yasui, researching news recommender systems and foundational LLMs. This resulted in a SIAM SDM'25 publication on news recommenders achieving superior multilingual performance, and earned the SIAM Travel Award.
 >
-> Now at United Kingdom studying at Imperial College London, I'm pursuing an MRes in AI/ML, supervised by Prof. Pedro Mediano on generative and contrastive deep learning for predicting rare events in large-scale clinical data in partnership with the NHS.
+> Now in the United Kingdom at Imperial College London, I'm pursuing an MRes in AI/ML supervised by Prof. Pedro Mediano, researching how contrastive learning and mixture of experts collapse in multimodal applications under scarcity.
 
