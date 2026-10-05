@@ -29,9 +29,4 @@
 
 ## 📖 A Bit About Me
 
-> My research journey spans three continents. I began in Brazil, earning a first-class Electrical Engineering degree from the University of Brasília and winning the Brazilian Government Scientific Initiation Scholarship for FPGA research with Professor Alexandre Nery. I then worked in partnership with Cellcrypt under Professor Edson Mintsu Hung, researching machine learning pipelines to improve call quality by optimizing PJSIP codec parameters.
-> 
-> My next step was Japan, where I received the Japanese Government (MEXT) Scholarship to work at The University of Tokyo under Prof. Toyotaro Suzumura, former MIT-IBM Watson AI Lab principal research scientist. There I collaborated with Nikkei Inc. under Dr. Yuichiro Yasui, researching news recommender systems and foundational LLMs. This resulted in a SIAM SDM'25 publication on news recommenders achieving superior multilingual performance, and earned the SIAM Travel Award.
->
-> Now in the United Kingdom at Imperial College London, I'm pursuing an MRes in AI/ML supervised by Prof. Pedro Mediano, researching how contrastive learning and mixture of experts collapse in multimodal applications under scarcity.
-
+> I'm an AI researcher and backend engineer bridging machine learning models with production systems. I previously led engineering at VOGA through its acquisition by BTG Pactual, Latin America's largest investment bank, architecting a real-time data platform managing over $300M in assets on AWS. At The University of Tokyo, I built data pipelines and news recommenders with Nikkei, owner of the Financial Times, including a model that learns from the news readers avoid, and created NewsReX, an open-source framework that trains news recommenders up to 2.8x faster. With Toyota, I developed the full research pipeline for point-of-interest recommendation. I'm now completing a Master of Research in AI and Machine Learning at Imperial College London, researching representation collapse in contrastive learning and mixture-of-experts models. I build scalable deep learning pipelines with PyTorch and JAX.
